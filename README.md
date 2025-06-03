@@ -1,7 +1,7 @@
 参考图
 心知和高德区别就key不一样,然后高德免费提供一个key，这个key是ai给我的，心知要自己去申请。
 原作者：[跳转](https://github.com/Edward334)
-演示网站：https://boke.22web.org
+演示网站：https://my.bokes.66ghz.com
 
 其他内容暂时没有改，要改的可以自己改，然后解压使用。
 
