@@ -1,5 +1,5 @@
 # 项目说明 📝
-
+![Home](https://socialify.git.ci/xyz66882/Home/image?font=Raleway&forks=1&issues=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
 <p align="center">
   <!-- 创建日期 --><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/xyz66882/Home?logo=github&label=%E5%88%9B%E5%BB%BA%E6%97%A5%E6%9C%9F">
   <!-- 下载量 --><a href="https://github.com/xyz66882/Home/releases"><img src="https://img.shields.io/github/downloads/xyz66882/Home/total?logo=github&label=%E4%B8%8B%E8%BD%BD%E9%87%8F"></a>
@@ -30,6 +30,21 @@
 
 ## 注意事项 ⚠️
 - 为了确保最佳体验，请按照上述指南操作，并留意项目的更新信息。
+
+# 🚀 贡献者
+<a href="https://github.com/xyz66882/Home/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=xyz66882/Home" />
+</a>
+<br /><br />
+
+# ⭐️ 收藏 历史
+<a href="https://www.star-history.com/#xyz66882/Home&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xyz66882/Home&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xyz66882/Home&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=xyz66882/Home&type=Date" />
+ </picture>
+</a>
 
 ## 参考图
 
